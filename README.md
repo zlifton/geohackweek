@@ -10,3 +10,4 @@ Zach pulled this and made changes locally on command line.
 ## Contributors (add your name)
 
 Amaury
+John (glad you guys worked out your conflicts..)
