@@ -1,3 +1,4 @@
 # geohackweek
 Git tutorial repository
- This is my contribution
+
+This is my contribution (Amaury)
